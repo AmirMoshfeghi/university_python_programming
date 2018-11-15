@@ -2,7 +2,7 @@
 # Printing out the dates of the year in one column
 # ___________________________________________________
 
-# going through the months and days
+# Going through the months and days
 for x in range(1, 13):
     for y in range(1, 32):
         if x <= 7:
