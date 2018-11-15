@@ -1,2 +1,2 @@
 # university_python_programming
-Projects done for the python programming lecture, Tampere University of Technology, 2017
+Programming lecture projects, Tampere University of Technology, 2017
