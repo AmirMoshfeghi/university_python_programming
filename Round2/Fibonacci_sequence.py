@@ -1,4 +1,4 @@
-# Fibonacci series
+# Fibonacci Series
 # Printing out Fibonacci series based on the user input
 # -----------------------------------------------------------------------
 
