@@ -12,7 +12,7 @@ print(powers)
 # receive a number from the user
 num = int(input("Please enter a number: "))
 
-# Boolean for deleting the 0's before the last 1
+# deleting the 0's before the last 1
 # example: 00010111 -> 10111
 printing = False
 
