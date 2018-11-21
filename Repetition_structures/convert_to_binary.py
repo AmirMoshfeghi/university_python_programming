@@ -1,3 +1,4 @@
+# Changing to binary function 
 # The program requests a number from the user and then prints out
 # its binary representation.
 # The program does not use a format string.
