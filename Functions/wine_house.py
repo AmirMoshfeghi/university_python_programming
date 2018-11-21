@@ -1,4 +1,5 @@
-# Making a house wine
+# Working with Functions
+# Making a house wine project
 # Wine Temperature must be closely controlled at least most of the time.
 # The program reads the temperature measurements of the wine container
 # during the fermentation process and tells whether the wine is ruined or not.
