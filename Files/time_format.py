@@ -1,4 +1,4 @@
-# oven_time_format.py
+# time_format.py
 # Transforming the time format of measurement results and writing new data
 # into a new file. The "ovendata.csv" file contains temperatures of three
 # different ovens as the function of time, using Celsius grades.
