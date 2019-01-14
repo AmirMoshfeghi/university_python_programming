@@ -1,5 +1,5 @@
 # Fibonacci Series
-# Printing out Fibonacci series based on the user input
+# Printing out Fibonacci series based on the user input, starting with 0
 # -----------------------------------------------------------------------
 
 # How many times should the program count (number)
